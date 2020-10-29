@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 :root {
   --black: #1b1c20;
+  --black-alpha20: rgba(0, 0, 0, 0.2);
   --gray: #757575;
   --green: #95eac1;
   --body-font: 'Oswald', sans-serif;
