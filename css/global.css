@@ -1,7 +1,12 @@
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 :root {
   --black: #1b1c20;
   --gray: #757575;
+  --green: #95eac1;
+  --body-font: 'Oswald', sans-serif;
 }
 * {
   box-sizing: border-box;
+  font-family: var(--body-font);
 }
